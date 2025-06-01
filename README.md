@@ -59,3 +59,8 @@
 
 ---
 
+## 💾 Using the Saved Model
+
+```python
+load the file using this link 
+https://drive.google.com/file/d/14xjFA-GDj0VfqM4yuelRzdImfvU9KRfV/view?usp=sharing
